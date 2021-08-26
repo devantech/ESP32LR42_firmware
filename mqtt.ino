@@ -75,7 +75,6 @@ void reconnect() {
 
 void modeMQTT() {
 char Inp;
-char Msg[] = "0";
 static int x=0;
 
 if(MQTTPortInUse != MqttPort){

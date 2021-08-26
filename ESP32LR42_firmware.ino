@@ -1,5 +1,8 @@
 
 /******************************************************************************
+ * v1.7.1
+ * Removed not used Variables
+ *
  * V1.7
  * Added escape char \ so that double quote (") can be included in passwords
  * 

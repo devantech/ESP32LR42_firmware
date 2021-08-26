@@ -8,7 +8,6 @@ void serialMonitor(void)
 {
 IPAddress IP, IPZ;
 char *p;
-uint port;
 
   if(getMLine()) {
     int cmd = getCommand();
